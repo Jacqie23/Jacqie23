@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jacqueline Modise</h1>
-<h3 align="center">A passionate web developer from Botswana a</h3>
+<h3 align="center">A passionate web developer from Botswana. I have a degree in international finance and Banking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacque23&label=Profile%20views&color=0e75b6&style=flat" alt="jacque23" /> </p>
 
-- 🔭 I’m currently working on **A young mothers project**
+- 🔭 I’m currently working on **
+- A young mothers project-this is an application that will be focused on supprting new young mothers with the respurces and support.Its set to link the old and the new generation **
 
 - 📫 How to reach me **jacqiemodise@gmail.com**
 

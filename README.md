@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacque23&label=Profile%20views&color=0e75b6&style=flat" alt="jacque23" /> </p>
 
 - 🔭 I’m currently working on **
-- A young mothers project-this is an application that will be focused on supprting new young mothers with the respurces and support.Its set to link the old and the new generation **
+- A young mothers project-this is an application that will be focused on supporting new young mothers with the resources and support.Its set to link the old and the new generation **
 
 - 📫 How to reach me **jacqiemodise@gmail.com**
 
